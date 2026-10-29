@@ -1,2 +1,2 @@
 # WeatherStation
-A weatherstation for the hackclub fallen event
+A weatherstation for the hackclub fallen event.
